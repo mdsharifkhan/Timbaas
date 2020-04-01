@@ -1,0 +1,79 @@
+/*Responsive Breakpoints*/
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    .sub-menu{
+        left: 56%;
+        height: 200%;
+        width: 71%;
+    }
+    #categoryAria .sub-menu .text-center{
+        text-align: left !important;
+    }
+    #categoryAria .sub-menu ul li{
+        margin-left: 15px !important;
+    }
+    .input-group {
+        width: 100% !important;
+    }
+    .circle-aria{
+        height: 160px;
+        width: 160px;
+    }
+    .circle-aria i{
+        margin-left: 42px;
+        margin-top: 56px;
+    }
+
+
+
+
+}
+
+
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .circle-aria{
+        height: 160px;
+        width: 160px;
+    }
+    .circle-aria i{
+        margin-left: 42px;
+        margin-top: 56px;
+    }
+
+
+
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .circle-aria{
+        height: 160px;
+        width: 160px;
+    }
+    .circle-aria i{
+        margin-left: 42px;
+        margin-top: 56px;
+    }
+
+
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+
+}
+
